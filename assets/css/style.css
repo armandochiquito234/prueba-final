@@ -22,3 +22,26 @@ h2 {
     height: 200px;
     object-fit: cover;
 }
+.Iguana {
+    width: 25%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+
+}
+.Valley {
+    width: 25%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+
+
+}
+.Bootstrap {
+    width: 25%;
+    height: auto;
+    display: flex;
+    align-items: start;
+    margin: 0 auto;
+
+}
